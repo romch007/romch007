@@ -1,6 +1,8 @@
 ## Hi 🎸!
 
 I'm Romain, a student who love maths, computer science, physics and music. Feel free to contribute to my projects if you want to.
+### Pronouns
+She/her
 
 ![romch007's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romch007&layout=compact&theme=gruvbox&exclude_repo=dwm,st,dmenu)
 
